@@ -33,7 +33,7 @@ Provides output in 3 formats:
 
    Go to this link: https://github.com/oschwartz10612/poppler-windows/releases/tag/v24.08.0-0
 
-   Download teh zip file, extract it, go to the bin folder isnide it, copy teh path and add it to your env variables.
+   Download the zip file, extract it, go to the bin folder isnide it, copy teh path and add it to your env variables.
 
 5. Set your OPENAI_API_KEY
     ```
